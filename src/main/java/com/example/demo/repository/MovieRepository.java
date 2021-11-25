@@ -84,33 +84,3 @@ public class MovieRepository {
     }
 }
 
-// {
-//         "movieId": 1,
-//         "movieName": "Avengers: Infinity War",
-//         "movieDirector": "Russo Brothers",
-//         "imdbRating": 8.4
-//         },
-//         {
-//         "movieId": 2,
-//         "movieName": "Avengers: End Game",
-//         "movieDirector": "Russo Brothers",
-//         "imdbRating": 8.7
-//         },
-//         {
-//         "movieId": 3,
-//         "movieName": "Inception",
-//         "movieDirector": "Christopher Nolan",
-//         "imdbRating": 8.9
-//         },
-//         {
-//         "movieId": 4,
-//         "movieName": "The Revenant",
-//         "movieDirector": "Alexandro",
-//         "imdbRating": 8.0
-//         },
-//         {
-//         "movieId": 5,
-//         "movieName": "Dunkirk",
-//         "movieDirector": "Christopher Nolan",
-//         "imdbRating": 8.5
-//         }
